@@ -1,6 +1,8 @@
 
 **Project Title:** Bank Credit and Debit Data Analysis
 
+Tools Used: Excel, PowerBI (PowerQuery fro Data cleaning), Tableau, MySQL, Python (pandas)
+
 **Project Description:**
 This project involves analyzing the bank’s credit and debit data to provide valuable insights into financial transactions and trends. Using raw transactional data from the bank, an interactive dashboard was developed to track, monitor, and visualize key financial metrics. The analysis focuses on understanding customer behavior, transaction volumes, and overall cash flow.
 
